@@ -1,0 +1,350 @@
+1|Bar Caldo|0|22|MACCHIATONE|€ 1,36|1,50
+1|Bar Caldo|0|460|MACCHIATONE D`ORZO|€ 1,45|1,60
+1|Bar Caldo|0|668|MACCHIATONE DI SOJA|€ 1,64|1,80
+1|Bar Caldo|0|465|MACCHIATONE Timor|€ 1,36|1,50
+1|Bar Caldo|1|10|CAFFE D´ORZO|€ 1,36|1,50
+1|Bar Caldo|1|6|CAFFE ESPRESSO|€ 1,27|1,40
+1|Bar Caldo|1|428|CAFFE LUNGO|€ 1,27|1,40
+1|Bar Caldo|1|7|CAFFE MACCHIATO|€ 1,27|1,40
+1|Bar Caldo|1|9|CAFFE Timor|€ 1,27|1,40
+1|Bar Caldo|1|528|CAFFE` D`ORZO ALL`ANICE|€ 1,36|1,50
+1|Bar Caldo|1|427|CAFFE` D`ORZO MACCHIATO|€ 1,45|1,60
+1|Bar Caldo|1|568|CAFFE` DELLE LANGHE|€ 2,18|2,40
+1|Bar Caldo|1|567|CAFFE` EQUATORIALE|€ 2,18|2,40
+1|Bar Caldo|1|461|CAFFE` ESP. RISTRETTO|€ 1,27|1,40
+1|Bar Caldo|1|667|CAFFE` MACCH. DI SOJA|€ 1,45|1,60
+1|Bar Caldo|1|12|CAFFE` TAZZA GRANDE|€ 1,27|1,40
+1|Bar Caldo|1|569|CAFFE` VIENNESE|€ 2,91|3,20
+1|Bar Caldo|1|471|CAFFE´ DOPPIO|€ 2,36|2,60
+1|Bar Caldo|1|459|CAFFE´ Timor MACCHIATO|€ 1,27|1,40
+1|Bar Caldo|1|14|CAPPUCCINO|€ 1,55|1,70
+1|Bar Caldo|1|17|CAPPUCCINO D`ORZO|€ 1,73|1,90
+1|Bar Caldo|1|665|CAPPUCCINO DI SOJA|€ 2,00|2,20
+1|Bar Caldo|1|16|CAPPUCCINO Timor|€ 1,55|1,70
+1|Bar Caldo|1|19|CIOC. + PANNA A PARTE|€ 3,82|4,20
+1|Bar Caldo|1|18|CIOCCOLATA CALDA|€ 2,91|3,20
+1|Bar Caldo|1|635|IRISH COFFEE|€ 3,82|4,20
+1|Bar Caldo|1|470|RISTRETTO MACCHIATO|€ 1,27|1,40
+1|Bar Caldo|2|525|AMERICANO |€ 1,64|1,80
+1|Bar Caldo|2|3|CAF. MAC. LAT. PARTE|€ 1,45|1,60
+1|Bar Caldo|2|442|Caffè + 1 pall. gelato|€ 2,18|2,40
+1|Bar Caldo|2|475|CAFFE` D`ORZO + PANNA a parte|€ 2,45|2,70
+1|Bar Caldo|2|15|CAPPUCCINO CON PANNA a parte|€ 2,91|3,20
+1|Bar Caldo|2|463|CAPPUCCINO RISTRETTO|€ 1,55|1,70
+1|Bar Caldo|2|474|Ciocc. picc.+ panna a parte|€ 2,91|3,20
+1|Bar Caldo|2|477|Cioccolata + ruhm + panna|€ 4,27|4,70
+1|Bar Caldo|2|473|Cioccolata piccola|€ 2,00|2,20
+1|Bar Caldo|2|464|Latte a parte cl 10|€ 0,45|0,50
+1|Bar Caldo|2|20|LATTE IN BICCHIERE|€ 1,55|1,70
+1|Bar Caldo|2|544|LATTE MACCH. PICCOLO|€ 1,55|1,70
+1|Bar Caldo|2|679|LATTE MACCH. SOJA|€ 3,18|3,50
+1|Bar Caldo|2|479|LATTE MACCHIATO|€ 2,45|2,70
+1|Bar Caldo|2|454|Tazza latte|€ 1,09|1,20
+1|Bar Caldo|2|455|Tazzina latte|€ 0,64|0,70
+1|Bar Caldo|2|616|THE INF. ARANCIA+CANN.|€ 3,36|3,70
+1|Bar Caldo|2|615|THE INF. FRUTTI DI BOSCO|€ 3,36|3,70
+1|Bar Caldo|2|617|THE INF. GIARDINO BOT.|€ 3,36|3,70
+1|Bar Caldo|2|624|THE VERDE LIM+ZENZ|€ 3,36|3,70
+1|Bar Caldo|2|620|THE` DARJEELING|€ 3,36|3,70
+1|Bar Caldo|2|619|THE` EARL GREY|€ 3,36|3,70
+1|Bar Caldo|2|614|THE` INF. ALB+PESCA|€ 3,36|3,70
+1|Bar Caldo|2|618|THE` INF. FINOCC.+LIQ.|€ 3,36|3,70
+1|Bar Caldo|2|621|THE` OP CEYLON|€ 3,36|3,70
+1|Bar Caldo|2|622|THE` ROOIBOS NAT.|€ 3,36|3,70
+1|Bar Caldo|2|623|THE` VERDE BACCHE FOLL.|€ 3,36|3,70
+1|Bar Caldo|2|625|THE` VERDE GUNPOWDER|€ 3,36|3,70
+1|Bar Caldo|5|5|CAFFE` CORR. GRAPPA|€ 2,09|2,30
+1|Bar Caldo|5|4|CAFFE` CORR. LIQUORE|€ 2,55|2,80
+1|Bar Caldo|6|8|CAFFE` + PANNA a parte|€ 2,45|2,70
+1|Bar Caldo|11|24|Punch arancio|€ 2,91|3,20
+1|Bar Caldo|11|25|Punch mandarino|€ 2,91|3,20
+1|Bar Caldo|11|26|Punch rhum|€ 2,91|3,20
+2|Brioches|1|678|Brioches girella ciocc + cannella|€ 1,27|1,40
+2|Brioches|2|362|Brioches Marmellata|€ 1,18|1,30
+2|Brioches|2|361|Brioches vuota|€ 1,09|1,20
+2|Brioches|3|366|Brioches Ciocc.|€ 1,27|1,40
+2|Brioches|3|363|Brioches Crema|€ 1,18|1,30
+2|Brioches|3|527|Brioches integr. miele|€ 1,18|1,30
+2|Brioches|3|430|Brioches integrale|€ 1,18|1,30
+2|Brioches|3|367|Brioches Mandorle|€ 1,27|1,40
+2|Brioches|3|364|Brioches Mele|€ 1,27|1,40
+2|Brioches|3|431|Treccia|€ 1,27|1,40
+2|Brioches|4|368|Brioches frutta bosco|€ 1,64|1,80
+2|Brioches|5|371|Brioche picc.alb.|€ 1,00|1,10
+2|Brioches|5|370|Brioche picc.crema|€ 1,00|1,10
+2|Brioches|5|526|Brioches piccola vuota|€ 1,00|1,10
+3|Bar Freddo|0|438|ACQUA GASS BICCH.|€ 0,91|1,00
+3|Bar Freddo|0|439|ACQUA NAT. BICCH.|€ 0,91|1,00
+3|Bar Freddo|0|28|BOTTIGL. ACQUA GASS|€ 1,55|1,70
+3|Bar Freddo|0|29|BOTTIGL. ACQUA NAT.|€ 1,55|1,70
+3|Bar Freddo|0|537|SPREM. 1/2 AR. 1/2 MELOGR.|€ 3,82|4,20
+3|Bar Freddo|0|603|SPREMUTA 1/2 ARANC 1/2 POMP.|€ 3,36|3,70
+3|Bar Freddo|0|49|SPREMUTA ARANCIA|€ 2,91|3,20
+3|Bar Freddo|0|523|SPREMUTA MELAGRANA|€ 4,27|4,70
+3|Bar Freddo|0|501|Spremuta piccola|€ 1,55|1,70
+3|Bar Freddo|0|456|SPREMUTA POMPELMO|€ 3,36|3,70
+3|Bar Freddo|0|555|Suc.Plose Albic|€ 2,91|3,20
+3|Bar Freddo|0|558|Suc.Plose Ananas|€ 2,91|3,20
+3|Bar Freddo|0|557|Suc.Plose Aranc. Carota|€ 2,91|3,20
+3|Bar Freddo|0|556|Suc.Plose Arancia|€ 2,91|3,20
+3|Bar Freddo|0|559|Suc.Plose Mela|€ 2,91|3,20
+3|Bar Freddo|0|560|Suc.Plose Mirtillo|€ 2,91|3,20
+3|Bar Freddo|0|562|Suc.Plose Pera|€ 2,91|3,20
+3|Bar Freddo|0|563|Suc.Plose Pesca|€ 2,91|3,20
+3|Bar Freddo|0|564|Suc.Plose Pompelmo|€ 2,91|3,20
+3|Bar Freddo|1|441|Acqua e MENTA gassata|€ 2,73|3,00
+3|Bar Freddo|1|440|Acqua e MENTA naturale|€ 2,73|3,00
+3|Bar Freddo|1|27|Acqua TON/BRIL PLOSE|€ 2,91|3,20
+3|Bar Freddo|1|38|Ap.Spritz APEROL|€ 2,91|3,20
+3|Bar Freddo|1|37|Ap.Spritz CAMPARI|€ 2,91|3,20
+3|Bar Freddo|1|493|Aper. APEROL CON ACQUA|€ 2,91|3,20
+3|Bar Freddo|1|494|Aperit. Bicicletta con vino|€ 4,55|5,00
+3|Bar Freddo|1|32|Aperitivo Bitter Campari|€ 2,91|3,20
+3|Bar Freddo|1|437|Aperitivo SPRITZ BIANCO|€ 2,45|2,70
+3|Bar Freddo|1|43|CAFFE` SHAKERATO|€ 2,91|3,20
+3|Bar Freddo|1|586|Galv. Bio Ar. Rossa|€ 3,36|3,70
+3|Bar Freddo|1|585|Galv. Bio Aranc.|€ 3,36|3,70
+3|Bar Freddo|1|584|Galv. Bio Cola|€ 3,36|3,70
+3|Bar Freddo|1|587|Galv. Bio Limo.|€ 3,36|3,70
+3|Bar Freddo|1|589|Galv. Bio Mand.|€ 3,36|3,70
+3|Bar Freddo|1|588|Galv. Bio Pomp. R.|€ 3,36|3,70
+3|Bar Freddo|1|680|Galvan. Bio Acqua tonica|€ 3,36|3,70
+3|Bar Freddo|1|582|Galvan. Bio Cedrata|€ 3,36|3,70
+3|Bar Freddo|1|581|Galvan. Bio Chinotto|€ 3,36|3,70
+3|Bar Freddo|1|580|Galvan. Bio Gassosa|€ 3,36|3,70
+3|Bar Freddo|1|583|Galvan. Bio Ginger|€ 3,36|3,70
+3|Bar Freddo|1|590|Tè freddo limone Prod. Prop.|€ 3,36|3,70
+3|Bar Freddo|1|591|Tè freddo Pesca Prod. Prop.|€ 3,36|3,70
+3|Bar Freddo|1|593|Tè freddo verde Prod. Prop.|€ 3,36|3,70
+3|Bar Freddo|3|554|Baladin Cedrata|€ 2,91|3,20
+3|Bar Freddo|3|550|Baladin Cola|€ 2,91|3,20
+3|Bar Freddo|3|553|Baladin Ginger|€ 2,91|3,20
+3|Bar Freddo|3|551|Baladin Spuma Nera|€ 2,91|3,20
+3|Bar Freddo|3|548|Birra Baladin Isac |€ 3,82|4,20
+3|Bar Freddo|3|549|Birra Baladin Nazionale|€ 3,82|4,20
+4|Alcolici|1|677|CHAMPAGNE|€ 7,45|8,20
+4|Alcolici|1|597|METODO CLASSICO|€ 4,55|5,00
+4|Alcolici|1|594|PROSECCO  DOCG|€ 3,36|3,70
+4|Alcolici|1|82|PROSECCO Doc|€ 2,91|3,20
+4|Alcolici|3|62|Amaretto di Saronno|€ 3,36|3,70
+4|Alcolici|3|63|Amaro Ramazzotti|€ 3,36|3,70
+4|Alcolici|3|64|Averna|€ 3,36|3,70
+4|Alcolici|3|458|Bayles|€ 3,36|3,70
+4|Alcolici|3|65|Brandy riserva|€ 3,36|3,70
+4|Alcolici|3|66|China Martini|€ 3,36|3,70
+4|Alcolici|3|67|Cognac francesi 3 stellle|€ 3,82|4,20
+4|Alcolici|3|68|Cognac francesi V.S.Q.P.|€ 4,73|5,20
+4|Alcolici|3|69|Cynar|€ 3,36|3,70
+4|Alcolici|3|70|Fernet Branca|€ 3,36|3,70
+4|Alcolici|3|71|Fernet Branca menta|€ 3,36|3,70
+4|Alcolici|3|72|Grappa|€ 3,36|3,70
+4|Alcolici|3|73|Grappa extra di monovitigno|€ 3,36|3,70
+4|Alcolici|3|74|Jaegermeister|€ 3,36|3,70
+4|Alcolici|3|452|Martini Bianco|€ 3,36|3,70
+4|Alcolici|3|453|Martini Rosso|€ 3,36|3,70
+4|Alcolici|3|77|Montenegro|€ 3,36|3,70
+4|Alcolici|3|78|Porto bianco|€ 3,82|4,20
+4|Alcolici|3|79|Porto rosso|€ 3,82|4,20
+4|Alcolici|3|80|Rabarbaro Zucca|€ 3,36|3,70
+4|Alcolici|3|81|Sambuca Molinari|€ 3,36|3,70
+4|Alcolici|3|84|Whisky|€ 4,73|5,20
+4|Alcolici|3|85|Whisky riserva|€ 4,73|5,20
+7|Paste|0|341|Krapfen alla crema|€ 1,27|1,40
+7|Paste|0|444|Krapfen alla marmellata|€ 1,27|1,40
+7|Paste|0|669|SANDWICH|€ 1,82|2,00
+7|Paste|0|636|Toast |€ 2,73|3,00
+7|Paste|1|348|Cannoli|€ 1,82|2,00
+7|Paste|1|347|Cassatine|€ 1,45|1,60
+7|Paste|1|662|Francesina|€ 1,45|1,60
+7|Paste|1|449|Pasta|€ 1,45|1,60
+7|Paste|1|351|Puncetti|€ 1,45|1,60
+7|Paste|3|342|Meringhe Panna|€ 1,82|2,00
+8|Pastine|0|503|MACARON|€ 1,18|1,30
+8|Pastine|1|451|BABA`|€ 0,91|1,00
+8|Pastine|1|335|BIGNE` CIOCCOLATO|€ 0,91|1,00
+8|Pastine|1|334|BIGNE` CREMA|€ 0,91|1,00
+8|Pastine|1|336|BIGNE` NOCCIOLA|€ 0,91|1,00
+8|Pastine|1|337|BIGNE` ZABAJONE|€ 0,91|1,00
+8|Pastine|1|484|BISCOTTINO|€ 0,36|0,40
+8|Pastine|1|547|BISCOTTO|€ 0,55|0,60
+8|Pastine|1|539|BOLLE DI NEVE|€ 0,91|1,00
+8|Pastine|1|540|BRESCIANE|€ 0,91|1,00
+8|Pastine|1|682|CASTAGNOLE|€ 0,27|0,30
+8|Pastine|1|339|CESTINO FRUTTA FRESCA|€ 0,91|1,00
+8|Pastine|1|331|CHERAU|€ 0,91|1,00
+8|Pastine|1|541|CIOCCO. + ZABAJONE|€ 0,91|1,00
+8|Pastine|1|533|CREMA|€ 0,91|1,00
+8|Pastine|1|316|CROSTATINA STREUSEL|€ 0,91|1,00
+8|Pastine|1|486|Crostoli |€ 0,91|1,00
+8|Pastine|1|521|Crostoli 1|€ 2,27|2,50
+8|Pastine|1|522|Crostoli 2 |€ 4,09|4,50
+8|Pastine|1|333|FINANZIERI BIANCHI|€ 0,91|1,00
+8|Pastine|1|332|FINANZIERI CACAO|€ 0,91|1,00
+8|Pastine|1|689|FRAMBOLA|€ 0,91|1,00
+8|Pastine|1|483|Frittelle al semolino|€ 0,73|0,80
+8|Pastine|1|480|Frittelle alla crema|€ 0,73|0,80
+8|Pastine|1|481|Frittelle allo zabajone|€ 0,73|0,80
+8|Pastine|1|482|Frittelle veneziane|€ 1,09|1,20
+8|Pastine|1|329|LINEA|€ 0,91|1,00
+8|Pastine|1|326|MADAGASCAR|€ 0,91|1,00
+8|Pastine|1|608|Marroni canditi|€ 2,27|2,50
+8|Pastine|1|327|OPERA`|€ 0,91|1,00
+8|Pastine|1|613|Pane con la zucca e uvetta|€ 0,91|1,00
+8|Pastine|1|542|PANE ZUCCA|€ 0,91|1,00
+8|Pastine|1|610|PARIGINE|€ 0,91|1,00
+8|Pastine|1|314|RICOTTINA|€ 0,91|1,00
+8|Pastine|1|611|ROMANINE|€ 0,91|1,00
+8|Pastine|1|322|ROYAL NOCI|€ 0,91|1,00
+8|Pastine|1|531|SACHER|€ 0,91|1,00
+8|Pastine|1|519|TARTINE|€ 0,91|1,00
+8|Pastine|1|530|TIRAMISU` CESTINO|€ 0,91|1,00
+8|Pastine|1|320|TIRAMISU` QUADRATA|€ 0,91|1,00
+8|Pastine|1|690|VANDIK|€ 0,91|1,00
+8|Pastine|3|311|Pastina|€ 0,91|1,00
+9|Fette Dolce|1|685|CAPP. ORZO SOJA|€ 2,09|2,30
+9|Fette Dolce|1|517|Deg. Cioccol latte|€ 3,64|4,00
+9|Fette Dolce|1|504|FETTA TORTA|€ 1,64|1,80
+9|Fette Dolce|1|534|FETTA TORTA SPECIALE|€ 4,09|4,50
+9|Fette Dolce|1|687|MAC. ORZO SOJA|€ 1,55|1,70
+9|Fette Dolce|1|686|MAC.ONE ORZO SOJA |€ 1,73|1,90
+9|Fette Dolce|1|516|Meringata|€ 3,64|4,00
+9|Fette Dolce|1|510|STRU. KAM. NORM|€ 2,27|2,50
+9|Fette Dolce|1|515|STRU. KAM. VETRINA|€ 3,18|3,50
+9|Fette Dolce|2|535|BICCHIERE SPECIALE|€ 4,09|4,50
+9|Fette Dolce|2|506|FETTA SACHER|€ 1,64|1,80
+9|Fette Dolce|2|507|FETTA SACHER + PANNA|€ 3,18|3,50
+9|Fette Dolce|2|505|FETTA TORTA VETRINA|€ 3,18|3,50
+10|Monoporzioni|1|605|MILLEFOGLIE|€ 2,27|2,50
+10|Monoporzioni|1|634|Monop. 1|€ 3,18|3,50
+10|Monoporzioni|1|607|Monoporz. da taglio|€ 2,36|2,60
+10|Monoporzioni|1|529|Monoporz. Speciale|€ 4,09|4,50
+10|Monoporzioni|1|674|Monoporzione 1,50|€ 1,36|1,50
+10|Monoporzioni|1|684|Monoporzione 2,50|€ 2,27|2,50
+10|Monoporzioni|1|675|Monoporzione 3,50|€ 3,18|3,50
+10|Monoporzioni|1|663|Monoporzione 4,00|€ 3,64|4,00
+10|Monoporzioni|1|683|Profitterol|€ 4,55|5,00
+10|Monoporzioni|2|472|Monoporzione 3,00|€ 2,73|3,00
+10|Monoporzioni|3|602|Crostatina alla ricotta|€ 2,27|2,50
+10|Monoporzioni|3|576|Crostatina alle ciliegie|€ 2,27|2,50
+10|Monoporzioni|3|601|Crostatina alle pere|€ 2,27|2,50
+10|Monoporzioni|3|572|Crostatina di mandorle|€ 2,27|2,50
+10|Monoporzioni|3|575|Crostatina di mele|€ 2,27|2,50
+10|Monoporzioni|3|571|Crostatina petit four 1|€ 3,18|3,50
+10|Monoporzioni|3|405|Monop.Sacher|€ 2,73|3,00
+12|Torte persona|3|171|Crost. Lim Lamp 10p.|€ 27,27|30,00
+12|Torte persona|3|169|Crost. Lim Lamp 6p.|€ 23,64|26,00
+12|Torte persona|3|170|Crost. Lim Lamp 8p.|€ 25,45|28,00
+12|Torte persona|3|174|Crost. Streusel 10p.|€ 27,27|30,00
+12|Torte persona|3|172|Crost. Streusel 6p.|€ 23,64|26,00
+12|Torte persona|3|173|Crost. Streusel 8p.|€ 25,45|28,00
+12|Torte persona|3|180|CrostFrutta10p.|€ 27,27|30,00
+12|Torte persona|3|178|CrostFrutta6p.|€ 23,64|26,00
+12|Torte persona|3|179|CrostFrutta8p.|€ 25,45|28,00
+12|Torte persona|3|183|CrostLamp10p.|€ 27,27|30,00
+12|Torte persona|3|181|CrostLamp6p.|€ 23,64|26,00
+12|Torte persona|3|182|CrostLamp8p.|€ 25,45|28,00
+12|Torte persona|3|177|Dolce Morb.Mele 10p.|€ 27,27|30,00
+12|Torte persona|3|175|Dolce Morb.Mele 6p.|€ 23,64|26,00
+12|Torte persona|3|176|Dolce Morb.Mele 8p.|€ 25,45|28,00
+12|Torte persona|3|192|Fragolina10p.|€ 27,27|30,00
+12|Torte persona|3|190|Fragolina6p.|€ 23,64|26,00
+12|Torte persona|3|191|Fragolina8p.|€ 25,45|28,00
+12|Torte persona|3|165|Linea 10p.|€ 27,27|30,00
+12|Torte persona|3|163|Linea 6p.|€ 23,64|26,00
+12|Torte persona|3|164|Linea 8p.|€ 25,45|28,00
+12|Torte persona|3|153|Mer. Ciocc. 10p.|€ 27,27|30,00
+12|Torte persona|3|151|Mer. Ciocc. 6p.|€ 23,64|26,00
+12|Torte persona|3|152|Mer. Ciocc. 8p.|€ 25,45|28,00
+12|Torte persona|3|168|Meringata 10p.|€ 27,27|30,00
+12|Torte persona|3|166|Meringata 6p.|€ 23,64|26,00
+12|Torte persona|3|167|Meringata 8p.|€ 25,45|28,00
+12|Torte persona|3|189|Sottobosco10p.|€ 27,27|30,00
+12|Torte persona|3|187|Sottobosco6p.|€ 23,64|26,00
+12|Torte persona|3|188|Sottobosco8p.|€ 25,45|28,00
+12|Torte persona|3|162|Tor. G. Cocco F.B. 10p.|€ 27,27|30,00
+12|Torte persona|3|160|Tor. G. Cocco F.B. 6p.|€ 23,64|26,00
+12|Torte persona|3|161|Tor. G. Cocco F.B. 8p.|€ 25,45|28,00
+12|Torte persona|3|159|Tor.G. Caffè 10p.|€ 27,27|30,00
+12|Torte persona|3|157|Tor.G. Caffè 6p.|€ 23,64|26,00
+12|Torte persona|3|158|Tor.G. Caffè 8p.|€ 25,45|28,00
+12|Torte persona|3|156|Tor.G. Nocc. Frutti B. 10p.|€ 27,27|30,00
+12|Torte persona|3|154|Tor.G. Nocc. Frutti B. 6p.|€ 23,64|26,00
+12|Torte persona|3|155|Tor.G. Nocc. Frutti B. 8p.|€ 25,45|28,00
+12|Torte persona|3|186|Vellutata10p.|€ 27,27|30,00
+12|Torte persona|3|184|Vellutata6p.|€ 23,64|26,00
+12|Torte persona|3|185|Vellutata8p.|€ 25,45|28,00
+13|Semifreddi|3|193|1.Mer. Ciocc. 6p.|€ 23,64|26,00
+13|Semifreddi|3|195|1.Semifreddo alla nocciola e gelato alla frutta di bosco|€ 20,00|22,00
+13|Semifreddi|3|196|2.Meringa al cocco sorbetto al jivara e sorbetto alla frutta di bosco|€ 20,00|22,00
+13|Semifreddi|3|194|2.Zuccotto|€ 18,18|20,00
+13|Semifreddi|3|197|3.Semifreddo al cioccolato e gelato al caffè|€ 20,00|22,00
+13|Semifreddi|3|198|4.Semifreddo al cioccolato e gelato alla vaniglia|€ 20,00|22,00
+13|Semifreddi|3|199|5.Semifreddo al cioccolato e gelato al pistacchio|€ 20,00|22,00
+13|Semifreddi|3|200|6.Tartufi gelati|€ 27,27|30,00
+15|Decorazioni|3|424|1 Cifra Azzurra|€ 0,55|0,60
+15|Decorazioni|3|421|1 Cifra Rosa|€ 0,55|0,60
+15|Decorazioni|3|425|2 Cifre Azzurre|€ 1,09|1,20
+15|Decorazioni|3|422|2 Cifre Rosa|€ 1,09|1,20
+15|Decorazioni|3|426|3 Cifre Azzurre|€ 1,64|1,80
+15|Decorazioni|3|423|3 Cifre Rosa|€ 1,64|1,80
+15|Decorazioni|3|413|Auguri|€ 0,91|1,00
+15|Decorazioni|3|414|Auguri|€ 0,91|1,00
+15|Decorazioni|3|415|Auguri Mamma|€ 0,91|1,00
+15|Decorazioni|3|418|Auguri Nonna|€ 0,91|1,00
+15|Decorazioni|3|417|Auguri Nonno|€ 0,91|1,00
+15|Decorazioni|3|416|Auguri Papà|€ 0,91|1,00
+15|Decorazioni|3|412|Buon Anniversario|€ 0,91|1,00
+15|Decorazioni|3|410|Buon Compleanno|€ 0,91|1,00
+15|Decorazioni|3|409|Buon Compleanno|€ 0,91|1,00
+15|Decorazioni|3|411|Buona Onomastico|€ 0,91|1,00
+15|Decorazioni|3|420|Candelina Azzurra|€ 0,45|0,50
+15|Decorazioni|3|419|Candelina Rosa|€ 0,45|0,50
+16|Torte tradizionali|3|118|Allemandorle|€ 20,00|22,00
+16|Torte tradizionali|3|148|Com.pesche crema pralinato nocciole|€ 21,82|24,00
+16|Torte tradizionali|3|130|Crostata Frutta|€ 21,82|24,00
+16|Torte tradizionali|3|128|CrostVan.Lamp.|€ 21,82|24,00
+16|Torte tradizionali|3|122|Dama Bianca|€ 21,82|24,00
+16|Torte tradizionali|3|123|Dama Rosa|€ 21,82|24,00
+16|Torte tradizionali|3|143|Fantasia Arancio|€ 21,82|24,00
+16|Torte tradizionali|3|146|Fragole e yogurt|€ 21,82|24,00
+16|Torte tradizionali|3|127|Gioconda|€ 21,82|24,00
+16|Torte tradizionali|3|147|Lamponi e manjari|€ 21,82|24,00
+16|Torte tradizionali|3|139|Linea|€ 21,82|24,00
+16|Torte tradizionali|3|126|Meringata|€ 21,82|24,00
+16|Torte tradizionali|3|144|MeringataCioccolato|€ 21,82|24,00
+16|Torte tradizionali|3|132|Millef.car.FB|€ 20,00|22,00
+16|Torte tradizionali|3|134|Millef.crema|€ 20,00|22,00
+16|Torte tradizionali|3|133|Millef.crema e fragole|€ 20,00|22,00
+16|Torte tradizionali|3|135|Millef.cremaCiocc|€ 20,00|22,00
+16|Torte tradizionali|3|137|Millef.cremC.bignè|€ 20,00|22,00
+16|Torte tradizionali|3|136|Millef.cremC.noliq|€ 20,00|22,00
+16|Torte tradizionali|3|138|Montebianco|€ 23,64|26,00
+16|Torte tradizionali|3|140|Operà|€ 21,82|24,00
+16|Torte tradizionali|3|131|P.sp.cremafrutta|€ 21,82|24,00
+16|Torte tradizionali|3|119|PetitFour|€ 20,00|22,00
+16|Torte tradizionali|3|129|Polenta e Osei|€ 20,00|22,00
+16|Torte tradizionali|3|142|Pralina|€ 21,82|24,00
+16|Torte tradizionali|3|141|PreludioAutunno|€ 21,82|24,00
+16|Torte tradizionali|3|121|Sacher|€ 21,82|24,00
+16|Torte tradizionali|3|145|Tiramisù|€ 21,82|24,00
+16|Torte tradizionali|3|125|Tiramisù|€ 21,82|24,00
+16|Torte tradizionali|3|150|Torta alla ricotta (cherau) e rhum|€ 21,82|24,00
+16|Torte tradizionali|3|149|Torta Fragolina|€ 21,82|24,00
+16|Torte tradizionali|3|120|Torta Marcellino|€ 16,36|18,00
+16|Torte tradizionali|3|124|Zuppa  Inglese|€ 20,00|22,00
+18|Gelateria |1|681|Bicchiere |€ 3,18|3,50
+18|Gelateria |1|655|Bicchieri coperchio|€ 3,64|4,00
+18|Gelateria |1|654|Bicchierini gelato piccoli|€ 1,64|1,80
+18|Gelateria |1|649|Fetta gelato ciocc. e pere.|€ 2,27|2,50
+18|Gelateria |1|647|Fetta gelato frutto passione|€ 2,27|2,50
+18|Gelateria |1|648|Fetta gelato pere e noci|€ 2,27|2,50
+18|Gelateria |1|646|Fetta gelato pompelmo rosa|€ 2,27|2,50
+18|Gelateria |1|640|Gelato al cioccolato|€ 3,18|3,50
+18|Gelateria |1|641|Gelato al limone|€ 3,18|3,50
+18|Gelateria |1|645|Gelato alla cannella|€ 3,18|3,50
+18|Gelateria |1|639|Gelato alla vaniglia|€ 3,18|3,50
+18|Gelateria |1|644|Gelato ciocc. bianco e lampone|€ 3,18|3,50
+18|Gelateria |1|642|Gelato crema alle noci|€ 3,18|3,50
+18|Gelateria |1|643|Gelato pompelmo rosa|€ 3,18|3,50
+18|Gelateria |1|653|Stecco gelato grande|€ 2,73|3,00
+18|Gelateria |1|652|Stecco gelato piccolo|€ 1,64|1,80
